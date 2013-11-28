@@ -19,7 +19,7 @@ Estructura de la base de datos para el sitio de cuayolo en MongoDB.
 Implementación
 ----------
 ```
-mongoimport --collection collection --file collection.json
+$ mongoimport --collection collection --file collection.json
 ```
 
 Consultas.
